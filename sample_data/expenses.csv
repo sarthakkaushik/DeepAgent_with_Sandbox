@@ -1,0 +1,38 @@
+expense_id,date_incurred,logged_by,belongs_to,status,category,subcategory,description,merchant_or_item,amount,currency,is_recurring,confidence,created_at,updated_at
+ab6f8d43-edba-40d1-a442-a5c79f86e976,2026-03-01,Sarthak Kaushik,Sarthak Kaushik,confirmed,Utilities,Mobile,Jio Mobile Bill,,440.00,INR,true,1.00,2026-03-01T13:59:22.688348,2026-03-01T13:59:22.687978
+47332c5e-ea4c-420f-b651-487c1285ad62,2026-03-01,Sarthak Kaushik,Sarthak Kaushik,confirmed,Utilities,Internet,Jio Internet Bill,,1700.00,INR,true,1.00,2026-03-01T13:59:06.546425,2026-03-01T13:59:06.546171
+9a3dfb4f-3d76-4386-af72-f28af4f7eef3,2026-02-25,Sarthak Kaushik,Sarthak Kaushik,confirmed,Food,Fast food,Fast food outing,,760.00,INR,false,0.92,2026-02-26T05:24:49.333850,2026-02-26T05:25:01.782330
+e528c55e-e1e3-40a4-85df-4bb04c6ea382,2026-02-24,Sarthak Kaushik,Sarthak Kaushik,confirmed,Food,Fast food,Golgappe and Tikki,Golgappe and Tikki,130.00,INR,false,0.92,2026-02-25T03:52:59.961791,2026-02-25T03:53:26.790903
+ffd08cb7-7367-4a16-8794-e2488de3882c,2026-02-21,Sarthak Kaushik,Sarthak Kaushik,confirmed,Healthcare,,Gym membership,gym,10000.00,INR,false,0.90,2026-02-21T10:28:51.689287,2026-02-21T13:57:28.866161
+e92fef6a-0f28-42b4-bdce-154e6123b58b,2026-02-21,Sarthak Kaushik,Sarthak Kaushik,confirmed,Food,Fast food,Buffet lunch,Buffet,279.00,INR,false,0.92,2026-02-21T10:28:33.493945,2026-02-21T11:31:42.766767
+1b465a1f-eb81-4f07-968c-eb08e8105ea2,2026-02-21,Sarthak Kaushik,Sarthak Kaushik,confirmed,Gift,,Gift for Isha Didi,Godwara,2600.00,INR,false,0.92,2026-02-21T10:28:07.422016,2026-02-21T11:31:53.690373
+f6888cb0-3175-4b18-881e-5b4afe4b113f,2026-02-21,Sarthak Kaushik,Sarthak Kaushik,confirmed,Gift,,Gift for Agastya,,800.00,INR,false,0.92,2026-02-21T10:27:45.339294,2026-02-21T10:27:51.826833
+1a18a73d-0116-444b-bd94-4cbbf9639c03,2026-02-20,Pooja Sharma,Pooja Sharma,confirmed,Groceries,Blinkit / Instamart,Fruits,insta-mart,600.00,INR,false,0.88,2026-02-20T02:25:21.437875,2026-02-21T11:56:18.464964
+b4366dac-8b44-4a64-bea8-6d2eddba27aa,2026-02-19,Sarthak Kaushik,Sarthak Kaushik,confirmed,Shopping,,XBOX game,XBOX,345.00,INR,false,0.92,2026-02-19T16:43:06.712997,2026-02-19T16:43:29.618954
+9491ccfb-9f79-4f2d-92b5-a1c7d25829db,2026-02-19,Sarthak Kaushik,Sarthak Kaushik,confirmed,Shopping,,XBOX game,XBOX,112.00,INR,false,0.92,2026-02-19T16:43:06.712655,2026-02-19T16:43:29.618954
+3f31c640-e94f-43a4-9549-2a910188dda3,2026-02-17,Pooja Sharma,Pooja Sharma,confirmed,Groceries,,Groceries from Instamart,Instamart,500.00,INR,false,0.92,2026-02-17T15:35:34.376664,2026-02-17T15:35:59.281424
+56284601-d2a2-4c21-8f41-98cf8a27cfd0,2026-02-17,Sarthak Kaushik,Sarthak Kaushik,confirmed,Food,Swiggy,Food order from Swiggy,Swiggy,164.00,INR,false,0.92,2026-02-17T12:48:07.745215,2026-02-21T11:56:40.815304
+825e77d0-4db3-416b-b94e-072936d9a1bc,2026-02-17,Sarthak Kaushik,Sarthak Kaushik,confirmed,Groceries,,Protein powder,protein powder,2500.00,INR,false,0.92,2026-02-17T12:46:29.586373,2026-02-17T12:46:41.916996
+c6fc89d8-073c-43b3-acc6-c1ee79b5fc25,2026-02-16,Sarthak Kaushik,Sarthak Kaushik,confirmed,Shopping,,Headphone purchase from Flipkart,Flipkart,7000.00,INR,false,0.86,2026-02-16T06:39:35.780340,2026-02-16T06:39:43.769052
+fcef1773-ba90-4945-9215-5322e941add9,2026-02-14,Sarthak Kaushik,Sarthak Kaushik,confirmed,Food,,Swiggy food order - aachari chaap,Swiggy,190.00,INR,false,0.95,2026-02-15T03:39:07.361055,2026-02-15T03:39:18.697200
+2c0cb1e5-d378-458d-82d1-8a5b6d00a205,2026-02-14,Sarthak Kaushik,Sarthak Kaushik,confirmed,Food,,Dominose pizza,Dominose pizza,550.00,INR,false,1.00,2026-02-14T20:33:01.476354,2026-02-14T20:33:29.285286
+776fd500-d37d-45bc-9c42-cade574ea40c,2026-02-14,Pooja Sharma,Pooja Sharma,confirmed,Gifts,,Valentine's gift for Manu and Agastya,Gift,800.00,INR,false,0.80,2026-02-14T04:50:39.694243,2026-02-14T04:50:45.388054
+0438284b-8d88-4ace-99f5-55e7e2b29e8b,2026-02-14,Pooja Sharma,Pooja Sharma,confirmed,Groceries,,ketchup,ketchup,600.00,INR,false,0.90,2026-02-14T04:50:05.181705,2026-02-14T04:50:13.604755
+53476d65-ad9f-493f-b5e2-6bb117c83ac3,2026-02-14,Pooja Sharma,Pooja Sharma,confirmed,Groceries,,Groceries from Blinkit,Blinkit,432.00,INR,false,0.90,2026-02-14T04:49:22.241833,2026-02-14T04:49:32.293016
+038eb81c-bed7-41ac-994b-04e59badceea,2026-02-13,Sarthak Kaushik,Sarthak Kaushik,confirmed,Transport,,Scooty petrol,Petrol,350.00,INR,false,0.86,2026-02-13T04:25:06.786048,2026-02-13T04:25:15.960288
+d2c91682-f1d2-4bad-a6a5-c991ca0d6cd2,2026-02-12,Pooja Sharma,Pooja Sharma,confirmed,Groceries,,vegetable,vegetable,190.00,INR,false,0.86,2026-02-12T17:02:22.579274,2026-02-12T17:02:33.219956
+343b8c0f-8ba3-4666-94bc-0193231e11fc,2026-02-12,Pooja Sharma,Pooja Sharma,confirmed,Shopping,,shopping for pooja,pooja,1500.00,INR,false,0.78,2026-02-12T17:01:06.273473,2026-02-12T17:01:25.201299
+83b722c5-9534-4a0a-8484-df682ca95d2e,2026-02-12,Sarthak Kaushik,Sarthak Kaushik,confirmed,Shopping,,Agastya weeding suite,agasty suite,2300.00,INR,false,0.86,2026-02-12T02:19:39.157890,2026-02-12T02:20:02.086237
+bf663645-4d91-4c1d-865f-3b92e1e43332,2026-02-09,Sarthak Kaushik,Sarthak Kaushik,confirmed,Household Services,,Payment to maid,Maid,1300.00,INR,true,0.86,2026-02-09T16:34:35.208376,2026-02-09T16:34:42.072256
+7ac2defc-ac8e-483d-aeee-9a3ec439d413,2026-02-09,Sarthak Kaushik,Sarthak Kaushik,confirmed,Education,,Agastya school fee,Agastya school,9800.00,INR,false,0.86,2026-02-09T16:33:45.554389,2026-02-09T16:34:02.006706
+e26a2477-e4d1-4d53-91e3-c607814e3b8e,2026-02-09,Sarthak Kaushik,Sarthak Kaushik,confirmed,Groceries,,Instamart,Blinkit,420.00,INR,false,0.78,2026-02-09T16:32:18.601145,2026-02-09T16:32:41.947624
+82c54c31-8214-4ca2-98b1-4934e1d47775,2026-02-09,Sarthak Kaushik,Sarthak Kaushik,confirmed,Food,,Food order via Swiggy,Swiggy,480.00,INR,false,0.90,2026-02-09T16:31:25.008083,2026-02-09T16:31:32.551072
+b148808b-12a1-46b0-85be-4a03ad95b1f7,2026-02-09,Pooja Sharma,Pooja Sharma,confirmed,Groceries,,Apple and grapes ordered from Blinkit for tomorrow,Blinkit,302.00,INR,false,0.78,2026-02-09T14:34:15.510652,2026-02-09T14:34:53.847484
+dcadd65c-0f44-421e-997e-ee2a5a106e41,2026-02-08,Pooja Sharma,Pooja Sharma,confirmed,Groceries,,Burger and related grocery items,burger,1000.00,INR,false,0.78,2026-02-08T07:57:27.263106,2026-02-08T07:57:38.083084
+589fe1e5-6a1b-4ee7-9147-d2186ec67318,2026-02-08,Pooja Sharma,Pooja Sharma,confirmed,Shopping,,pooja shopping,bliss club,3500.00,INR,false,0.76,2026-02-08T03:11:32.720042,2026-02-08T03:12:01.494933
+94b54f4b-0bae-4f8c-ade0-c6833b792916,2026-02-08,Pooja Sharma,Pooja Sharma,confirmed,Groceries,,Groceries,groceries,1000.00,INR,false,0.90,2026-02-08T03:10:40.862141,2026-02-08T03:10:59.194716
+faebc50f-12f6-434c-96be-c9d8b6c466d3,2026-02-08,Pooja Sharma,Pooja Sharma,confirmed,Gifts,,Gift for Abiuday,Abiuday gift,1100.00,INR,false,0.86,2026-02-08T03:10:40.861877,2026-02-08T03:10:59.194716
+eea5f665-0c0f-4385-b352-6ed42ca14745,2026-02-08,Sarthak Kaushik,Sarthak Kaushik,confirmed,Gift,,Esha didi anniversary gift,anniversary gift,1800.00,INR,false,0.90,2026-02-08T03:05:58.829873,2026-02-08T03:06:32.482067
+ae056e64-40c8-40f1-9a35-86e8d4152452,2026-02-08,Sarthak Kaushik,Sarthak Kaushik,confirmed,Shopping,,waist coat for pooja,waist coat,1500.00,INR,false,0.90,2026-02-08T03:05:58.829604,2026-02-08T03:06:32.482067
+cfb31987-abb8-4cf9-ae37-d8872a1c2d7a,2026-02-07,Pooja Sharma,Pooja Sharma,confirmed,Groceries,,Grocery purchase via Blinkit,Blinkit,200.00,INR,false,0.90,2026-02-07T19:14:52.589204,2026-02-07T19:15:03.531268
+c25f21f6-249e-4752-8784-538924578803,2026-02-01,Pooja Sharma,Sarthak Kaushik,confirmed,Other,,mummy,,15000.00,INR,true,0.62,2026-02-18T02:36:23.212342,2026-03-01T14:02:31.378235
